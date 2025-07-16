@@ -36,7 +36,7 @@ const Index = () => {
           </Badge>
           <h1 className="text-5xl font-bold text-gray-900 mb-6 leading-tight">
             Начните карьеру в банковской сфере
-            <span className="text-blue-600"> с Альфа-Банком</span>
+            <span className="text-blue-600"> «Свой в Альфе»</span>
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
             Присоединяйтесь к команде агентов крупнейшего частного банка России. 
