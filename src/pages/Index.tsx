@@ -81,8 +81,9 @@ const Index = () => {
           <div className="max-w-3xl mx-auto text-center mb-16">
             <h2 className="text-3xl font-bold text-gray-900 mb-6">О партнерской программе</h2>
             <p className="text-lg text-gray-600">
-              Мы предлагаем уникальную возможность работать с продуктами Альфа-Банка 
-              на выгодных условиях с многоуровневой системой вознаграждений.
+              <span className="text-blue-600 font-semibold">Зарабатывайте от 50 000 ₽ в месяц</span> продвигая продукты Альфа-Банка! 
+              Бесплатное обучение, гибкий график, работа по самозанятости или ГПХ. 
+              <span className="text-green-600 font-semibold">Начните сегодня!</span>
             </p>
           </div>
 
