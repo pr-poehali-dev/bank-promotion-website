@@ -38,7 +38,7 @@ const Index = () => {
             Начните карьеру в банковской сфере
             <span className="text-blue-600"> «Свой в Альфе»</span>
           </h1>
-          <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
+          <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto font-normal">
             Присоединяйтесь к команде агентов крупнейшего частного банка России. 
             Продвигайте банковские продукты, получайте достойный доход и развивайтесь профессионально.
           </p>
